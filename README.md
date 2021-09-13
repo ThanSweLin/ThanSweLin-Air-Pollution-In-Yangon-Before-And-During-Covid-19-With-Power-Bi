@@ -1,4 +1,7 @@
 # ThanSweLin-Air-Pollution-In-Yangon-Before-And-During-Covid-19-With-Power-Bi
+
+Abstract 
+
 We use the Power Bi(Business Analytics Service) for visualization in Air Pollution Datasets. 
 We use the data from the sensors around the Yangon. 
 We can easily see the Air Pollution in Yangon before and during Covid19. 
